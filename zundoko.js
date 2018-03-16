@@ -1,0 +1,1 @@
+console.log((f=i=>i?Math.random()<0.5?'ズン'+f(i+1):'ドコ'+f(i<5):'キ・ヨ・シ！')(1))
